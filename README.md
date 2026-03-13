@@ -2,7 +2,7 @@
 
 ## Fase 1: Fundamentos JavaScript
 
-- [ ] Internet: Entendendo os fundamentos da web
+- [x] Internet: Entendendo os fundamentos da web
 - [ ] HTML e CSS: ambiente, estrutura e estilo
 - [ ] HTML e CSS: formularios, SEO e acessibilidade
 - [ ] HTML e CSS: responsividade de layout
