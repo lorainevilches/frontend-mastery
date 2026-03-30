@@ -4,7 +4,7 @@
 
 - [x] Internet: Entendendo os fundamentos da web
 - [x] HTML e CSS: ambiente, estrutura e estilo
-- [ ] HTML e CSS: formularios, SEO e acessibilidade
+- [x] HTML e CSS: formularios, SEO e acessibilidade
 - [ ] HTML e CSS: responsividade de layout
 - [ ] Javascript: aprendendo a programar
 - [ ] Praticamente Javascript: condicionais
